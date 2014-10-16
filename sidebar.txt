@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[biz:home|Door43 (biz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-biz|d43-biz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-biz/archive/master.zip|d43-biz.zip]]
+
+**Recent Changes**
+{{changes>ns = biz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/biz|Ethnologue data]]
+
